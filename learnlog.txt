@@ -20,3 +20,14 @@ git commit -m "更新说明"    表示提交代码到工作区
 
 git push origin(url） master 表示提交代码 origin表示远程 ，master表示本地分支
 
+
+
+以上是从github上拷贝一个项目到本地并提交。
+
+下面则是如何从本地上传文件到github
+
+参看参考文档
+
+主要就是git add remote 命令
+和git push -u
+使用u前提是空repo
