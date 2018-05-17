@@ -15,3 +15,8 @@ git clone url
 git commit是提交到”正式”分支，是从缓存区放到该区。
 而git add每次从工作区添加到缓存区。
 
+git add 是讲每次新添加的文件放到缓存区
+git commit -m "更新说明"    表示提交代码到工作区
+
+git push origin(url） master 表示提交代码 origin表示远程 ，master表示本地分支
+
