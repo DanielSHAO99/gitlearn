@@ -1,4 +1,17 @@
 
 <Better later than never>
+2018年05月17日
+
+
 记录git的学习日志
 push与pull
+
+从gitbub上克隆项目
+
+git clone url
+后续提交，做修改后，git push即可?
+
+
+git commit是提交到”正式”分支，是从缓存区放到该区。
+而git add每次从工作区添加到缓存区。
+
