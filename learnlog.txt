@@ -31,3 +31,12 @@ git push origin(url） master 表示提交代码 origin表示远程 ，master表
 主要就是git add remote 命令
 和git push -u
 使用u前提是空repo
+2018年05月18日14:23:42
+分支，branch管理 与暂存区，工作区，master这些名词的含义
+暂存区如上，一个中间临时变量。用于保存commit过程中提交的文件。
+
+
+
+
+
+git也是文本的方式处理提交。二进制文件，exe 图片等之类的文本，只能是看日志。
