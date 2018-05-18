@@ -47,3 +47,6 @@ git checkout -b branchname 为创建并切换分支
 
 切换分支后，所使用的文件，为对应分支的文件。如在master分支修改文本添加一段内容，在branch_test添加另一段内容，则在分支master里看到的是master对应的内容，分支branchtest看到的是其内容
 
+git merge的时候需要切换到master,然后使用git merge dev就会将dev分枝合并到merge分枝李。可见这个当前分支是很重要的
+
+
