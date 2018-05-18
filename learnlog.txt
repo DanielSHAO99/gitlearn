@@ -40,3 +40,10 @@ git push origin(url） master 表示提交代码 origin表示远程 ，master表
 
 
 git也是文本的方式处理提交。二进制文件，exe 图片等之类的文本，只能是看日志。
+
+git checkout branchname 为切换分支
+
+git checkout -b branchname 为创建并切换分支
+
+切换分支后，所使用的文件，为对应分支的文件。如在master分支修改文本添加一段内容，在branch_test添加另一段内容，则在分支master里看到的是master对应的内容，分支branchtest看到的是其内容
+
